@@ -21,8 +21,8 @@
 
 ;; video 14 -- use-package initialize
 (setq use-package-always-ensure t
-      use-package-always-defer nil
-      use-package-always-demand t
+      use-package-always-defer t
+      use-package-always-demand nil
       use-package-expand-minimally t
       use-package-verbose t)
 
