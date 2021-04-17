@@ -10,6 +10,10 @@
 	sml/theme 'respectful)
   (sml/setup)) 
 
+(use-package emacs
+    :config
+    (setq display-line-numbers-type 'relative) 
+    (global-display-line-numbers-mode t))
 ; (use-package emacs
 ;   :if (display-graphic-p)
 ;   :config
