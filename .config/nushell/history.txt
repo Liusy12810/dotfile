@@ -289,3 +289,4 @@ exit
 clear
 git pull
 git status
+vim .config/nushell/history.txt; git commit -a -m "update"

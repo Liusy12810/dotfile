@@ -2,6 +2,7 @@
 /.config/gtk-3.0/
 /.config/chromium/
 /.config/fcitx5/
+/.config/nushell/history.txt
 /.cache
 /.cargo
 /.lesshst
