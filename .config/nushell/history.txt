@@ -266,3 +266,26 @@ vim .gitconfig
 ls
 ls -al
 vim .gitignore
+git add *
+git commit -m "initialization"
+git config --global user.email "liusy12810@outlook.com"
+git config --global user.name "Liusy12810"
+git commit -m "initialization"
+git remote add git@github.com:Liusy12810/dotfile.git
+git remote add -t origin git@github.com:Liusy12810/dotfile.git
+git remote add origin git@github.com:Liusy12810/dotfile.git
+git push origin main
+git push --set-upstream origin main
+git branch -h
+git pull
+git branch -d master
+exit
+git branch -d origin/master
+git branch -d --remote origin/master
+git branch -d master
+git branch
+git push
+exit
+clear
+git pull
+git status
