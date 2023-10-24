@@ -1,0 +1,268 @@
+echo hello
+exit
+ls
+ls | sort size
+ls | sort by-size
+sort -h
+sort -v
+ls | sort -v
+ls | sort-by -h
+ls | sort-by size
+$nu.env-path
+cd $nu.env-path
+cd $nu.env-path/..
+cd ../nushell/
+ls
+vim env.nu
+vim config.nu
+exit
+echo hello
+exit
+ls
+ls -al
+ls -al | sort-by size
+exit
+ls
+exit
+ls
+man nu
+nu -h
+exit
+shutdown
+wezterm
+ls
+eza
+exa
+lsblk
+ls /
+top
+fetch
+neofetch
+fetch
+fastfetch 
+z
+cd .config
+cd wezterm/
+ls
+nvim wezterm.lua
+pacman -Ss firacode
+..
+cd .config
+su -
+iwctl
+starship preset nerd-font-symbols -o ~/.config/starship.toml<\n>
+ls
+nvim starship.toml
+cd wezterm/
+exit
+sudo pacman -Syu
+clear
+killall -h
+killall -l
+sudo shutdown
+sudo shutdown -c
+cd .config/hypr/
+ls
+vim hyprland.conf
+hyprctl monitor
+hyprctl monitor | rg m
+hyprctl monitors
+vim hyprland.conf
+su -
+vim hyprland.conf
+su -
+ping googld.com
+ping google.com
+hyprctl monitors
+vim hyprland.conf
+clear
+cd ../nvim
+cd ..
+mkdir nvim
+cd nvim/
+vim init.lua
+su -
+clear
+su -
+vim init.lua
+su root
+su -
+clear
+systemctl enable fcitx5
+su -
+..
+cd starry/
+ls
+sudo pacman -Ss fcitx5 | rg chinese
+sudo pacman -Rs fcitx5-chinese-addons-git
+pacman -Ss thefuck
+pacman -S thefuck
+sudo pacman -S thefuck
+sudo pacman -S fcitx5-chinese-addons
+cd .config/nvim/
+ls
+mkdir lua
+cd lua/
+cd ..
+cd .config/nvim/
+ls
+vim lua/packer.lua
+vim init.lua
+vim lua/packer.lua
+git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+rm -rf ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+vim lua/packer.lua
+exit
+vim lua/lazyinit.lua
+vim lua/packer.lua
+mv lua/lazyinit.lua lua/util.lua
+vim init.lua
+vim lua/util.lua
+nvim lua/util.lua
+nvim lua/conf.lua
+exit
+shutdown now
+exit
+clear
+pacman -Syu
+fuck
+thefuck
+sudo pacman -S thefuck
+killall -l
+clear
+su -
+jobs
+job
+ps aux | rg pacman
+ps 
+ps  | pacman
+ps  | rg pacman
+sudo pacman -Syu
+nvim .config/hypr/hyprland.conf
+exit
+chromium 
+paru -Syu
+pacman -Qs fcitx5
+pacman -Ss fcitx5-gtk
+sudo pacman -Rs fcitx5-chinese-addons fcitx5-configtool-git fcitx5-git fcitx5-nord fcitx5-pinyin-moegirl fcitx5-pinyin-zhwiki fcitx5-qt5-git
+exit
+git init
+git config --global init.defaultBranch main
+rm .git
+rm .git -rf
+git init
+ls
+ls -al
+touch .gitignore
+nvim .gitignore
+cd .config/
+mkdir emacs
+git clone -h
+git clone -h | rg path
+git clone -h | rg dir
+git clone https://github.com/Liusy12810/dotfile.git
+git clone https://github.com/Liusy12810/dotfile.git emacs
+export all_proxy=127.0.0.1:7890
+$env.all_proxy = 127.0.0.1:7890
+git clone https://github.com/Liusy12810/dotfile.git emacs
+cd emacs/
+ls
+cd ..
+cd rofi/
+..
+cd emacs/
+rm .git -rf
+ls
+ls -al
+exit
+sudo pacman -Syu
+exit
+cd .config/
+ls
+cd hypr/
+ls
+nvim 
+nvim hyprland.conf
+exit
+clear
+exit
+cd .config/nushell/
+vi config.nu
+xs ..
+..
+vi starship.toml
+l
+cd Downloads/
+ls
+echo 1 | xclip
+xclip
+pacman -Ss wl-copy
+pacman -Ss clio
+pacman -Ss clip
+pacman -Ss clip | grep wayland
+pacman -S wl-clipboard
+sudo pacman -S wl-clipboard
+sudo pacman -S wl-clipboard thefuck
+..
+ls
+la
+ls -a
+cd Downloads/
+ls
+iwctl
+exit
+cd ..
+ssh-keygen -t rsa -b 4096 -C "liusy12810@outlook.com"
+pacman -S ssh-keygen
+ln -s /usr/bin/thefuck /usr/bin/fuck
+fuck
+pacman -S ssh-keygen
+fuck
+rm /usr/bin/fuck
+sudo rm /usr/bin/fuck
+ln -s /usr/bin/thefuck /usr/bin/fuck
+sudo ln -s /usr/bin/thefuck /usr/bin/fuck
+fuck
+pacman -S ssh-keygen
+fuck
+fuck pacman -S ssh-keygen
+sudo pacman -S ssh-keygen
+sudo pacman -Ss ssh-keygen
+sudo pacman -Ss ssh
+sudo pacman -Ss openssh
+sudo pacman -S openssh
+ssh-keygen -t rsa -b 4096 -C "liusy12810@outlook.com"
+cd .ssh/
+ls
+cat id_rsa
+cat id_rsa.pub
+drop $env.all_proxy
+drop -h
+set -h
+unset -h
+all_proxy | drop all_proxy
+ps | rg iw
+ps
+ps | rg iw
+kill 416
+sudo kill iwd
+ps | rg iw
+su -
+exit
+su -
+cd .ssh/
+paru -S bat
+alias bat cat
+bat id_rsa.pub
+cat id_rsa.pub
+chromium id_rsa.pub
+vi id_rsa.pub
+cd ..
+git add .config
+vim .gitignore
+git add .config
+vim .gitconfig
+ls
+ls -al
+vim .gitignore

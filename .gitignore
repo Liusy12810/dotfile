@@ -1,0 +1,14 @@
+/.config/dconf/
+/.config/gtk-3.0/
+/.config/chromium/
+/.config/fcitx5/
+/.cache
+/.cargo
+/.lesshst
+/.local
+/.mozilla
+/.pki
+/.rustup
+/.ssh
+/Downloads
+/Pictures

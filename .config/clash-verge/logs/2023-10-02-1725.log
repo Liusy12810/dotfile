@@ -1,0 +1,8 @@
+2023-10-02 17:25:45 ERROR - failed to copy resources 'geoip.dat', 没有那个文件或目录 (os error 2)
+2023-10-02 17:25:45 ERROR - failed to copy resources 'geosite.dat', 没有那个文件或目录 (os error 2)
+2023-10-02 17:25:45 ERROR - failed to create the pid file
+2023-10-02 17:25:45 INFO - [clash]: INF [API] listening addr=127.0.0.1:9090
+2023-10-02 17:25:45 INFO - [clash]: INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=tcp
+2023-10-02 17:25:45 INFO - [clash]: INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=udp
+2023-10-02 17:26:27 ERROR - failed to save file "/tmp/clash-verge-check.yaml"
+2023-10-02 17:26:28 ERROR - failed to save file "/tmp/clash-verge-check.yaml"

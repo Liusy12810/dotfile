@@ -1,0 +1,16 @@
+2023-10-24 11:18:34 ERROR - failed to copy resources 'geoip.dat', 没有那个文件或目录 (os error 2)
+2023-10-24 11:18:34 ERROR - failed to copy resources 'geosite.dat', 没有那个文件或目录 (os error 2)
+2023-10-24 11:18:34 ERROR - failed to create the pid file
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=🚀直接连接
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=⚓️其他流量
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=🎬国外媒体
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=🍎苹果服务
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=🔰国外流量
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=🎬Netflix
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=✈️Telegram
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=🎬哔哩哔哩
+2023-10-24 11:18:34 INFO - [clash]: INF [Config] initial compatible provider name=🎬Youtube
+2023-10-24 11:18:34 INFO - [clash]: INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=tcp
+2023-10-24 11:18:34 INFO - [clash]: INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=udp
+2023-10-24 11:18:34 INFO - [clash]: INF [API] listening addr=127.0.0.1:9090
+2023-10-24 11:24:45 INFO - [clash]: INF [TCP] connected lAddr=127.0.0.1:46920 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🔰国外流量[美国631 中继 NF]

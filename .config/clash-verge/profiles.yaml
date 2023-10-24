@@ -1,0 +1,23 @@
+# Profiles Config for Clash Verge
+
+current: rw0rZuoqvkeF
+chain: null
+valid:
+- dns
+items:
+- uid: rw0rZuoqvkeF
+  type: remote
+  name: ClashR_1696238783.yaml
+  file: rw0rZuoqvkeF.yaml
+  url: https://cdn.xmrth.one/link/fvr1qfrdtmwroago?clash=2
+  selected:
+  - name: 🔰国外流量
+    now: 美国631 中继 NF
+  - name: GLOBAL
+    now: 新加坡641 中继
+  extra:
+    upload: 19630
+    download: 62180
+    total: 3221225472000
+    expire: 1719036644
+  updated: 1696739854
