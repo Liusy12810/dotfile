@@ -1,4 +1,0 @@
-
-local Cfg = {}
-
-Cfg.o
