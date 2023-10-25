@@ -333,3 +333,43 @@ sudo pacman -S qt6-wayland
 xlsclients
 paru -S waybar-hyprland
 git status
+git commit -a -m "updated 2023-10-25"
+git push
+vim hypr/hyprland.conf
+ls
+mkdir waybar; cd waybar
+vim hypr/hyprland.conf
+..
+vim hypr/hyprland.conf
+clear
+ls /etc/xdg/waybar/config
+cp /etc/xdg/waybar/ waybar/
+cp /etc/xdg/waybar/ waybar/ -r
+ls
+cd waybar/
+ls
+mv waybar/* ./
+ls
+rm waybar/
+ls
+mv config config.json
+ls
+vim config.json
+su -
+git push
+exit
+vi .gitignore
+git status
+vi .gitignore
+git add *
+git status
+vi .gitignore
+mv assignments Documents/assignments
+mkdir Documents
+mv assignments Documents/assignments
+ls
+ls Documents/
+cd Documents/
+ls
+cd ..
+git status
