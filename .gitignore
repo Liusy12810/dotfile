@@ -1,4 +1,13 @@
 .config/**
+!.config/waybar
+!.config/hypr
+!.config/wezterm
+!.config/nvim
+!.config/eww
+# !.config/waybar
+# !.config/waybar
+# !.config/waybar
+# !.config/waybar
 .cache/
 .cargo/
 .lesshst/
