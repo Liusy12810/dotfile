@@ -373,3 +373,15 @@ cd Documents/
 ls
 cd ..
 git status
+git add *
+ls Documents/
+ls
+git commit -m "waiting for gitignore to function"
+git config advice.addIgnoredFile false
+git status
+git rm assignments/*
+ls
+vi .gitignore
+git add *
+vi .gitignore
+git status
