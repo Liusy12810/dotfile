@@ -3,6 +3,7 @@
 .config/chromium/
 .config/fcitx5/
 .config/clash-verge/
+.config/nushell/*.txt
 .cache/
 .cargo/
 .lesshst/
@@ -14,5 +15,3 @@
 Downloads/
 Pictures/
 Documents/
-
-*.txt
