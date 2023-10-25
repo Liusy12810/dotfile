@@ -4,7 +4,7 @@
 !.config/wezterm
 !.config/nvim
 !.config/eww
-# !.config/waybar
+!.config/nushell/*.nu
 # !.config/waybar
 # !.config/waybar
 # !.config/waybar
