@@ -1,21 +1,33 @@
-.config/**
-!.config/waybar
-!.config/hypr
-!.config/wezterm
-!.config/nvim
-!.config/eww
-!.config/nushell/*.nu
-# !.config/waybar
-# !.config/waybar
-# !.config/waybar
-.cache/
-.cargo/
-.lesshst/
-.local/
-.mozilla/
-.pki/
-.rustup/
-.ssh/
-Downloads/
-Pictures/
-Documents/
+
+# I will upload these configuration that can be uploaded!
+/*
+!/.config
+/.config/*
+!/.config/emacs
+/.config/emacs/*
+!/.config/emacs/*.el
+!/.config/emacs/lisp
+/.config/emacs/lisp/*
+!/.config/emacs/lisp/**/*.el
+
+!/.config/fish
+!/.config/hypr
+!/.config/joshuto
+!/.config/nushell
+/.config/nushell/*
+!/.config/nushell/**/*.nu
+!/.config/nvim
+!/.config/paru
+!/.config/rofi
+!/.config/starship.toml
+!/.config/thefuck
+!/.config/waybar
+!/.config/wezterm
+!/.bash_logout
+!/.bash_profile
+!/.bashrc
+!/.gitconfig
+!/.gitignore
+!/README.md
+
+__pycache__
