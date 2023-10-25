@@ -10,7 +10,7 @@ enable_memory_usage: true
 enable_tun_mode: null
 enable_auto_launch: false
 enable_silent_start: false
-enable_system_proxy: false
+enable_system_proxy: true
 enable_proxy_guard: false
 system_proxy_bypass: null
 proxy_guard_duration: 30

@@ -14,7 +14,7 @@ items:
   - name: 🔰国外流量
     now: 美国631 中继 NF
   - name: GLOBAL
-    now: 新加坡641 中继
+    now: 香港300 中继 NF
   extra:
     upload: 19630
     download: 62180

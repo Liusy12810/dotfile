@@ -291,3 +291,45 @@ git pull
 git status
 vim .config/nushell/history.txt; git commit -a -m "update"
 vim .gitignore; git commit -a -m "update"
+git commit -a -m "update gitignore"
+git push
+git status
+vim .gitignore
+clear
+exit
+su -
+clear
+sudo pacman -Syu
+$env.all_proxy | echo
+$env.all_proxy = "127.0.0.1:7890"
+sudo pacman -Syu
+git status
+vi .gitignore
+exit
+ls Downloads/
+sudo pacman -S waybar
+sudo pacman -Ss nix
+sudo pacman -Qs paper
+sudo pacman -Qs bar
+sudo pacman -S waybar
+cd .config/hypr/
+vim hyprland.conf
+exit
+cd ../
+mkdr waybar
+fuck %
+mkdir assignments && cd assignments
+mkdir assignments ;cd assignments
+mkdir G12-1sem/Biology; cd G12-1sem/Biology
+ls
+paru -Ss fcitx5
+sudo vim /etc/pacman.conf
+vim hw-2023-10-25.txt
+exit
+sudo pacman -Qs waylang
+sudo pacman -Qs wayland
+sudo pacman -Qs wayland | rg qt
+sudo pacman -S qt6-wayland
+xlsclients
+paru -S waybar-hyprland
+git status
