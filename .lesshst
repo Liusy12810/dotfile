@@ -13,3 +13,5 @@
 "pacman
 "exec
 "exec 
+"background
+"var(background)

@@ -1,2 +1,3 @@
 
-require "plugin.theme"
+require "core.config"
+require "core.mapping"

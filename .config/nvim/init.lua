@@ -1,8 +1,4 @@
--- I finally started configuration --
--- 
--- This is the init file that only contains importation
--- and temporaty change
 
-require('packer')
-require('utils')
-require('config')
+
+require("utils")
+require("plugin")
