@@ -35,7 +35,6 @@ set.splitbelow = true
 
 -- theme
 set.termguicolors = true
-set.signcolumn = "yes"
 set.background = "dark"
+set.signcolumn = "yes"
 
--- vim.cmd [[colorscheme gruvbox]]
